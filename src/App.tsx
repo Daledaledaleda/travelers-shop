@@ -7,7 +7,7 @@ import {
 
 const COLLECTION_ID = "963ecd12-05a4-45ec-8234-82b198fae077";
 const API_KEY = "ck_production_5ejoH34XvGYELRyU3vCakPL83cszuXJy4VTZPLcA7CK5mTE6kKRw8E9rX2SfmtnZbCQLAzBU4qH7e4F4YHssPA8MCjsDrhZzjg8C9P2xU4K8NsrxkiF9saiafRi3cgh54twvjDauVyErAQsYy9d9Rdj4SFDoYqaJpR7w5oG3bWe4pjt7BVqf6mUCnt1aD5q9jGeV7HfvYEzeQzcFBJd67gTQ";
-const webpageHeader = "Bring Park Avenue to your collection!";
+const webpageHeader = "Bring Park Avenue to your collection";
 const MAX_QUANTITY = 15;
 
 const NFTS = [
@@ -57,7 +57,7 @@ function App() {
   return (
     <CrossmintProvider apiKey={API_KEY}>
       <div style={styles.page}>
-        <h1 style={styles.title}>Test desde Facu – Versión con cambio visual 🎯</h1>
+    <h1 style={styles.title}>{webpageHeader}</h1>
         <p style={styles.subtitle}>
           Collect one of the iconic <strong>Travelers</strong> by Bruno Catalano, exhibited on Park Avenue, NYC – now available as Digital Art.
         </p>
