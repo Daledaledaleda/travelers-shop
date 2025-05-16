@@ -59,7 +59,7 @@ function App() {
       <div style={styles.page}>
         <h1 style={styles.title}>{webpageHeader}</h1>
         <p style={styles.subtitle}>
-          Collect one of the iconic <strong>Travelers</strong> by Bruno Catalano, exhibited on Park Avenue, NYC – now available as NFTs.
+          Collect one of the iconic <strong>Travelers</strong> by Bruno Catalano, exhibited on Park Avenue, NYC – now available as Digital Art.
         </p>
 
         <div style={styles.gallery}>
