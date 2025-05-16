@@ -7,7 +7,7 @@ import {
 
 const COLLECTION_ID = "963ecd12-05a4-45ec-8234-82b198fae077";
 const API_KEY = "ck_production_5ejoH34XvGYELRyU3vCakPL83cszuXJy4VTZPLcA7CK5mTE6kKRw8E9rX2SfmtnZbCQLAzBU4qH7e4F4YHssPA8MCjsDrhZzjg8C9P2xU4K8NsrxkiF9saiafRi3cgh54twvjDauVyErAQsYy9d9Rdj4SFDoYqaJpR7w5oG3bWe4pjt7BVqf6mUCnt1aD5q9jGeV7HfvYEzeQzcFBJd67gTQ";
-const webpageHeader = "Own a piece of Park Avenue";
+const webpageHeader = "Bring Park Avenue to your collection";
 const MAX_QUANTITY = 15;
 
 const NFTS = [
@@ -15,19 +15,19 @@ const NFTS = [
     title: "Traveler #1",
     templateId: "7ad67f6f-1a0a-478e-a770-c252893280a2",
     imageSrc: "https://ipfs.io/ipfs/QmQGu1TxCDwPBH2q8fZRuvw1U5cyNgcfYq9uEiHYzcUmVU",
-    priceLabel: "Collect this NFT"
+    priceLabel: "Collect this Digital Art"
   },
   {
     title: "Traveler #2",
     templateId: "99478669-81ee-459d-bab2-05e726cc1bf1",
     imageSrc: "https://ipfs.io/ipfs/QmVo2vofAWAjzoZMD6EevgqLDdDLgL5vJFWenoJrkRCuNX",
-    priceLabel: "Collect this NFT"
+    priceLabel: "Collect this Digital Art"
   },
   {
     title: "Traveler #3",
     templateId: "a6c07732-8b7c-4634-99cc-54790b4296ad",
     imageSrc: "https://ipfs.io/ipfs/Qmb8mbxBPchQZ3aMangRNYsAQLaCHA92XLFpGUAcCDHyQU",
-    priceLabel: "Collect this NFT"
+    priceLabel: "Collect this Digital Art"
   }
 ];
 
